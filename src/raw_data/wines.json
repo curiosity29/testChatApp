@@ -1,0 +1,104 @@
+{
+      "winery": {
+        "name": "Zámocké vinárstvo",
+        "location": "Pezinský zámok",
+        "website": "www.zamokpezinok.sk",
+        "description": "Vína edície Roman Janoušek, vyrábané z vlastných viníc na juhu Slovenska, v Dubníku a Svodíne."
+      },
+      "services": {
+        "wine_tasting": {
+          "description": "Degustácia vín z edície Romana Janouška v stredovekých pivniciach.",
+          "pricing": [
+            { "samples": 4, "price": "14.00€", "includes": "prehliadka pivníc" },
+            { "samples": 6, "price": "20.00€", "includes": "prehliadka pivníc" },
+            { "samples": 8, "price": "26.00€", "includes": "prehliadka pivníc" }
+          ]
+        },
+        "space_rental": {
+          "description": "Prenájom priestorov po 18:00 hodine.",
+          "pricing": {
+            "base_price": "150€ / 2 hodiny",
+            "additional_hour": "50€ / hodina"
+          }
+        }
+      },
+      "culinary_specialties": {
+        "group_offer": {
+          "minimum_guests": 8,
+          "notice_period": "48 hours"
+        },
+        "buffet_offer": {
+          "minimum_guests": 15,
+          "condition": "Jednotné menu pre celú skupinu"
+        },
+        "menus": [
+          {
+            "name": "Záhryz k degustácii 1",
+            "price": "12.00€ / osoba",
+            "items": [
+              "Syrový/(1, 7, 8) alebo údeninový tanier - 200g",
+              "Pečivo (1)"
+            ]
+          },
+          {
+            "name": "Záhryz k degustácii 2",
+            "price": "15.00€ / osoba",
+            "items": [
+              "Syrovo-údeninový tanier – 200g / (1, 7, 8)",
+              "Pečivo (1)",
+              "1ks syrový pagáč (1, 3, 7)",
+              "1ks oškvarkový pagáč (1, 3, 7)"
+            ]
+          },
+          {
+            "name": "Vinárstvo 1",
+            "price": "45€ / osoba",
+            "items": {
+              "cold_dishes": [
+                "Domáca tlačenka s cibuľou a octom",
+                "Pikantná klobása",
+                "Oškvarkové pagáče (1, 3, 7, 11)",
+                "Nakladaná zelenina"
+              ],
+              "soup": "Domáca kapustnica s chlebom (1)",
+              "hot_dishes": [
+                "Pikantné mäso na ihle (10)",
+                "Pečená krkovička (10)",
+                "Pečené zemiaky v alobale",
+                "Pečené jaternice (1)",
+                "Pečené bravčové rebrá",
+                "Zemiaková kaša (7)",
+                "Chlieb (1)"
+              ],
+              "desserts": [
+                "Štrúdľa (mak) (1, 3, 7, 8)",
+                "Štrúdľa (orech) (1, 3, 7, 8)"
+              ]
+            }
+          },
+          {
+            "name": "Vinárstvo 2",
+            "price": "49€ / osoba",
+            "items": {
+              "cold_dishes": [
+                "Výber lokálnych syrov (7, 8)",
+                "Výber lokálnych mäsových nárezov",
+                "Nakladaná zelenina (10)"
+              ],
+              "hot_dishes": [
+                "Konfitované kačacie stehná",
+                "Bravčové pečené koleno (10)",
+                "Žemľová knedľa (1, 3, 7)",
+                "Domáca lokša (1)",
+                "Dusená červená kapusta (12)",
+                "Chlieb (1)"
+              ],
+              "desserts": [
+                "Štrúdľa (mak) (1, 3, 7, 8)",
+                "Štrúdľa (orech) (1, 3, 7, 8)"
+              ]
+            }
+          }
+        ]
+      }
+    }

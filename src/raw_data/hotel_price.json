@@ -1,0 +1,122 @@
+{
+  "hotel_pricing_policy": {
+    "effective_date": "2025-01-01",
+    "seasons": {
+      "summer_season": {
+        "period": "May - September",
+        "weekday_rates": {
+          "BAR_1": 149,
+          "BAR_2": 139,
+          "BAR_3": 129,
+          "BAR_4": 119,
+          "BAR_5": 109,
+          "FIT": 69,
+          "GRP": 69,
+          "FF": 54,
+          "ZAM": 35
+        },
+        "weekend_rates": {
+          "BAR_1": 199,
+          "BAR_2": 189,
+          "BAR_3": 179,
+          "BAR_4": 169,
+          "BAR_5": 159,
+          "FIT": 99,
+          "GRP": 99,
+          "FF": 84,
+          "ZAM": 35
+        }
+      },
+      "winter_season": {
+        "period": "December - March",
+        "weekday_rates": {
+          "BAR_1": 199,
+          "BAR_2": 189,
+          "BAR_3": 179,
+          "BAR_4": 169,
+          "BAR_5": 159,
+          "FIT": 99,
+          "GRP": 99,
+          "FF": 84,
+          "ZAM": 45
+        },
+        "weekend_rates": {
+          "BAR_1": 249,
+          "BAR_2": 239,
+          "BAR_3": 229,
+          "BAR_4": 219,
+          "BAR_5": 209,
+          "FIT": 149,
+          "GRP": 149,
+          "FF": 134,
+          "ZAM": 45
+        }
+      },
+      "christmas_new_year": {
+        "weekday_weekend_rates": {
+          "BAR_1": 299,
+          "BAR_2": 289,
+          "BAR_3": 279,
+          "BAR_4": 269,
+          "BAR_5": 259,
+          "FIT": "BAR - 10%",
+          "GRP": "BAR - 10%",
+          "FF": "BAR - 10%",
+          "ZAM": "BAR - 10%"
+        }
+      },
+      "spring_break": {
+        "weekday_weekend_rates": {
+          "BAR_1": 249,
+          "BAR_2": 239,
+          "BAR_3": 229,
+          "BAR_4": 219,
+          "BAR_5": 209,
+          "FIT": "BAR - 10%",
+          "GRP": "BAR - 10%",
+          "FF": "BAR - 10%",
+          "ZAM": "BAR - 10%"
+        }
+      }
+    },
+    "additional_charges": {
+      "single_room": {
+        "weekday": 35,
+        "weekend": 45
+      },
+      "superior_room": {
+        "weekday": 20,
+        "weekend": 30
+      },
+      "apartment": {
+        "weekday": 99,
+        "weekend": 99,
+        "christmas_new_year": 199,
+        "spring_break": 159
+      },
+      "breakfast_deduction": -15,
+      "half_board": 20,
+      "full_board": 45,
+      "extra_bed": 49,
+      "child_under_6": 0,
+      "child_6_to_12": "-40%",
+      "baby_crib": 15
+    },
+    "general_conditions": {
+      "vat_included": true,
+      "local_tax": "1€ per person",
+      "fit_grp_prices": "NET prices",
+      "occupancy_condition": "At the time of reservation confirmation",
+      "prices_per_person_per_night": true,
+      "third_person_rate": "Same as other guests",
+      "child_under_6_free": true,
+      "child_bed_policy": "Same as extra bed or third bed"
+    },
+    "explanations": {
+      "fit": "Travel agencies and agents receive 10% less than the BAR rate",
+      "grp": "Group price applicable for occupancy less than 70%, minimum 10 rooms or 20 people",
+      "ff": "Family and friends of employees and owners",
+      "zam": "Employee pricing"
+    }
+  }
+}

@@ -1,0 +1,763 @@
+{
+    "buffets": [
+        {
+            "name": "Bufet 1A",
+            "price_per_person": 35,
+            "items": {
+                "salads": [
+                    "Listov\u00fd \u0161al\u00e1t, modr\u00fd syr, hru\u0161ka, karamelizovan\u00e9 orechy, malina, v\u00ednny ocot",
+                    "Gr\u00e9cky \u0161al\u00e1t, \u010derstv\u00fd syr, olivy"
+                ],
+                "soups": [
+                    "Slepa\u010d\u00ed v\u00fdvar, rezance, kore\u0148ov\u00e1 zelenina"
+                ],
+                "main_courses": [
+                    "Brav\u010dov\u00e9 rezn\u00edky",
+                    "Rol\u00e1da z kuracieho stehn\u00e1",
+                    "Penne s om\u00e1\u010dkou zo su\u0161en\u00fdch paradajok",
+                    "Zemiakov\u00e1 ka\u0161a",
+                    "Dusen\u00e1 ry\u017ea"
+                ],
+                "desserts": [
+                    "Vanilkov\u00e1 pena s ovoc\u00edm",
+                    "Sacher torta"
+                ]
+            }
+        },
+        {
+            "name": "Bufet 1B",
+            "price_per_person": 35,
+            "items": {
+                "salads": [
+                    "Coleslaw",
+                    "Cviklov\u00fd \u0161al\u00e1t s jogurtom a chrenom",
+                    "Crudit\u00e9s so smotanovo \u2013 bylinkov\u00fd dip"
+                ],
+                "soups": [
+                    "Batatov\u00fd kr\u00e9m"
+                ],
+                "main_courses": [
+                    "Pe\u010den\u00e9 marinovan\u00e9 kuracie stehn\u00e1 s BBQ om\u00e1\u010dkou, grilovanou zeleninou a jogurtovo \u2013 bylinkov\u00fdm dipom",
+                    "Brav\u010dov\u00e1 porchetta s restovan\u00fdm kelom na cesnaku",
+                    "\u0160pen\u00e1tov\u00e9 \u0161pecle s nivovou om\u00e1\u010dkou a su\u0161en\u00fdmi paradajkami",
+                    "Americk\u00e9 zemiaky",
+                    "Dusen\u00e1 ry\u017ea s hr\u00e1\u0161kom",
+                    "Nakladan\u00e1 zelenina"
+                ],
+                "desserts": [
+                    "Jablkov\u00e9 pit\u00e9",
+                    "Pavlova s \u010diernymi r\u00edbez\u013eami"
+                ]
+            }
+        },
+        {
+            "name": "Bufet 2",
+            "price_per_person": 45,
+            "items": {
+                "cold": [
+                    "Roast beef, \u00faden\u00e9 aioli",
+                    "V\u00fdber lok\u00e1lnych syrov"
+                ],
+                "salads": [
+                    "Listov\u00fd \u0161al\u00e1t, pe\u010den\u00e1 tekvica, fazu\u013ekov\u00e9 lusky, re\u010fkovka, dijon, ocot",
+                    "\u0160al\u00e1t zo zelen\u00fdch listov"
+                ],
+                "soups": [
+                    "Minestrone"
+                ],
+                "main_courses": [
+                    "Pe\u010den\u00e1 brav\u010dov\u00e1 panenka s restovan\u00fdmi hubami",
+                    "Kuracie rezn\u00edky",
+                    "Penne A la Arabiatta",
+                    "Losos s k\u00f4provou om\u00e1\u010dkou",
+                    "Grilovan\u00e1 zelenina",
+                    "Baby zemiaky s maslom",
+                    "Dusen\u00e1 ry\u017ea"
+                ],
+                "desserts": [
+                    "Panna cotta s ovoc\u00edm",
+                    "Mix \u0161tr\u00fad\u013ea"
+                ]
+            }
+        },
+        {
+            "name": "Bufet 3",
+            "price_per_person": 55,
+            "items": {
+                "cold": [
+                    "V\u00fdber lok\u00e1lnych syrov, figov\u00fd d\u017eem, hrozno, orechy",
+                    "V\u00fdber lok\u00e1lnych m\u00e4sov\u00fdch n\u00e1rezov"
+                ],
+                "salads": [
+                    "Repov\u00fd \u0161al\u00e1t, koz\u00ed syr, \u010dakanka, \u0161pen\u00e1t, jahodov\u00fd vinegar",
+                    "Ceasar \u0161al\u00e1t s kurac\u00edm m\u00e4som a slaninou"
+                ],
+                "soups": [
+                    "Hr\u00e1\u0161kov\u00fd kr\u00e9m s krut\u00f3nmi"
+                ],
+                "main_courses": [
+                    "Hov\u00e4dzie l\u00ed\u010dka na \u010dervenom v\u00edne",
+                    "Pe\u010den\u00fd zub\u00e1\u010d na masle",
+                    "Brav\u010dov\u00e9 medajl\u00f3nky so slaninou",
+                    "Gnocchi s hubovou om\u00e1\u010dkou",
+                    "Z\u00e1mock\u00e1 kned\u013ea",
+                    "Zemiakov\u00e1 ka\u0161a",
+                    "Dusen\u00e1 ry\u017ea",
+                    "Anglick\u00e1 zelenina na masle"
+                ],
+                "desserts": [
+                    "Brownies",
+                    "Ven\u010deky"
+                ]
+            }
+        },
+        {
+            "name": "Bufet 4",
+            "price_per_person": 65,
+            "items": {
+                "cold": [
+                    "V\u00fdber lok\u00e1lnych syrov, figov\u00fd d\u017eem, hrozno, orechy",
+                    "Roast beef, \u00faden\u00e9 aioli",
+                    "Losos grawlax, cr\u00e9me fraiche, k\u00f4por"
+                ],
+                "salads": [
+                    "Listov\u00fd \u0161al\u00e1t, grilovan\u00fd enci\u00e1n",
+                    "Ceasar \u0161al\u00e1t s kurac\u00edm m\u00e4som a slaninou"
+                ],
+                "soups": [
+                    "Hov\u00e4dz\u00ed v\u00fdvar, rezance, kore\u0148ov\u00e1 zelenina"
+                ],
+                "main_courses": [
+                    "Pe\u010den\u00e9 kukuri\u010dn\u00e9 kuriatko s citr\u00f3nom a rozmar\u00ednom",
+                    "Grilovan\u00fd losos, dusen\u00fd mangold, medovo - hor\u010dicov\u00e1 om\u00e1\u010dka",
+                    "Bryndzov\u00e9 pirohy so slaninou a kyslou smotanou",
+                    "Srn\u010die rag\u00fa",
+                    "Grilovan\u00e1 zelenina",
+                    "Z\u00e1mock\u00e1 kned\u013ea",
+                    "Zemiakov\u00fd gratin"
+                ],
+                "desserts": [
+                    "Vanilkov\u00fd cheessecake",
+                    "Slivkov\u00fd kol\u00e1\u010d",
+                    "Medov\u00fd rez"
+                ]
+            }
+        },
+        {
+            "name": "Slovensk\u00fd Bufet",
+            "price_per_person": 35,
+            "items": {
+                "cold": [
+                    "Kanapka s o\u0161kvarkovou n\u00e1tierkou",
+                    "Kanapka s bryndzovou n\u00e1tierkou",
+                    "Kanapka s n\u00e1tierkou z \u00faden\u00e9ho pstruha"
+                ],
+                "salads": [
+                    "Kapustov\u00fd \u0161al\u00e1t s mrkvou, kapustou, jablkami",
+                    "Poh\u00e1nkov\u00fd \u0161al\u00e1t s cviklou, koz\u00edm syrom a lieskov\u00fdmi orie\u0161kami",
+                    "Crudit\u00e9s, smotanovo \u2013 bylinkov\u00fd dip"
+                ],
+                "soups": [
+                    "\u0160o\u0161ovicov\u00e1 na kyslo s hubami a zemiakmi"
+                ],
+                "main_courses": [
+                    "Hov\u00e4dz\u00ed gul\u00e1\u0161",
+                    "Brav\u010dov\u00fd reze\u0148",
+                    "Pe\u010den\u00e9 ka\u010dacie \u0161tvrte",
+                    "Bryndzov\u00e9 pirohy s pa\u017e\u00edtkou",
+                    "Lok\u0161a masten\u00e1",
+                    "Zemiakov\u00e1 ka\u0161a",
+                    "Dusen\u00e1 ry\u017ea",
+                    "\u017dem\u013eov\u00e1 kned\u013ea",
+                    "Dusen\u00e1 \u010derven\u00e1 kapusta"
+                ],
+                "desserts": [
+                    "Medov\u00fd rez",
+                    "Pun\u010dov\u00e1 kocka"
+                ]
+            }
+        },
+        {
+            "name": "Taliansky Bufet",
+            "price_per_person": 45,
+            "items": {
+                "cold": [
+                    "Vitello tonnato",
+                    "Mozzarella Caprese"
+                ],
+                "salads": [
+                    "Radicchio \u0161al\u00e1t s pe\u010denou hru\u0161kou, kandizovan\u00fdmi vla\u0161sk\u00fdmi orechmi, syrom gorgonzola a medovo \u2013 hor\u010dicov\u00fdm dressingom",
+                    "Listov\u00fd \u0161al\u00e1t s mel\u00f3nom, prosciuttom a olivami",
+                    "Crudit\u00e9s, smotanovo \u2013 bylinkov\u00fd dip"
+                ],
+                "soups": [
+                    "Paradajkov\u00e1 polievka s \u010derstvou bazalkou a syrom Grana Padano"
+                ],
+                "main_courses": [
+                    "Kuracie prsia na tosk\u00e1nsky sp\u00f4sob",
+                    "Brav\u010dov\u00e1 porchetta s restovan\u00fdm kelom na cesnaku",
+                    "Cestoviny Frutti di mare",
+                    "Gnocchi s kr\u00e9mov\u00fdm pestom, strukov\u00fdmi fazu\u013ekami, brokolicou a syrom Grana Padano",
+                    "Baby zemiaky s maslom a oreganom",
+                    "Ry\u017ea s hr\u00e1\u0161kom",
+                    "Grilovan\u00e1 zelenina s olivami, kaparami a bylinkami"
+                ],
+                "desserts": [
+                    "Tiramisu",
+                    "Migliaccio"
+                ]
+            }
+        },
+        {
+            "name": "Franc\u00fazsky Bufet",
+            "price_per_person": 45,
+            "items": {
+                "cold": [
+                    "Quiche lorraine",
+                    "Zeleninov\u00fd quiche",
+                    "Quiche s koz\u00edm syrom a su\u0161en\u00fdmi paradajkami",
+                    "Tanier franc\u00fazskych syrov dekorovan\u00fdch s hroznom a orechmi, chutney"
+                ],
+                "salads": [
+                    "\u0160al\u00e1t Ni\u00e7oise - \u0161al\u00e1t s ope\u010den\u00fdm tuniakom, an\u010dovi\u010dkami, zemiakmi, paradajkami, olivami, cibu\u013ekou, vaj\u00ed\u010dkom, fazu\u013eov\u00fdmi strukmi a vinaigrettom",
+                    "Cviklovo - \u0161o\u0161ovicov\u00fd \u0161al\u00e1t s marinovan\u00fdm syrom Camembert a hor\u010dicovo - medov\u00fdm dressingom"
+                ],
+                "soups": [
+                    "Franc\u00fazska cibu\u013eov\u00e1 polievka, pe\u010den\u00e1 bagetka so syrom"
+                ],
+                "main_courses": [
+                    "Kuracie stehienka na baskick\u00fd sp\u00f4sob",
+                    "Hov\u00e4dz\u00ed chuck roll na burgundsk\u00fd sp\u00f4sob",
+                    "Ka\u010dacie \u0161tvrte v aromatickej om\u00e1\u010dke z pomaran\u010dov a m\u00e4sovej \u0161\u0165avy",
+                    "Pe\u010den\u00fd losos, sl\u00e1vky, cuketa, \u0161afranov\u00e1 om\u00e1\u010dka",
+                    "Hubov\u00e9 rag\u00fa na burgundsk\u00fd sp\u00f4sob",
+                    "Ratatouille",
+                    "Gratinovan\u00e9 zemiaky",
+                    "Ry\u017eov\u00fd pilaf",
+                    "Zemiakov\u00e1 ka\u0161a"
+                ],
+                "desserts": [
+                    "Paris brest",
+                    "Vanilkovo \u2013 levandu\u013eov\u00e9 cr\u00e9me brul\u00e9e"
+                ]
+            }
+        },
+        {
+            "name": "\u00c1zijsky Bufet",
+            "price_per_person": 45,
+            "items": {
+                "cold": [
+                    "Ry\u017eov\u00e1 rolka plnen\u00e1 zeleninou, nakladan\u00fdm z\u00e1zvorom, sladk\u00e1 chilli om\u00e1\u010dka",
+                    "Krevetov\u00fd coctail s uhorkou, mangom a jemne pikantnou kr\u00e9movou om\u00e1\u010dkou",
+                    "Hov\u00e4dzie tataki so sezamom, yuzu ponzu om\u00e1\u010dka, togarashi korenie, su\u0161en\u00e9 vlo\u010dky tuniaka"
+                ],
+                "salads": [
+                    "\u00c1zijsk\u00fd Slaw \u0161al\u00e1t s marinovan\u00fdm tofu a cashew orie\u0161kami",
+                    "Uhorkov\u00fd \u0161al\u00e1t s dressingom z fermentovan\u00e9ho chilli"
+                ],
+                "soups": [
+                    "Tom Kha Gai s kurac\u00edm m\u00e4som"
+                ],
+                "main_courses": [
+                    "Kuracie prsia v sladko \u2013 kyslej om\u00e1\u010dke s anan\u00e1som",
+                    "Pomaly pe\u010den\u00fd brav\u010dov\u00fd b\u00f4\u010dik, pak choi, hoisin om\u00e1\u010dka, sezam",
+                    "Pe\u010den\u00fd losos, brokolica, \u0161pen\u00e1t, limetov\u00e1 teriyaki om\u00e1\u010dka",
+                    "Thajsk\u00e9 \u010derven\u00e9 karfiolov\u00e9 curry s c\u00edcerom",
+                    "Jazm\u00ednov\u00e1 ry\u017ea",
+                    "Restovan\u00e9 rezance so zeleninou a ustricovou om\u00e1\u010dkou",
+                    "Restovan\u00e1 zelenina so s\u00f3jovo \u2013 medovou om\u00e1\u010dkou"
+                ],
+                "desserts": [
+                    "Panna cotta mango, maracuja",
+                    "Matcha, \u010dokol\u00e1da"
+                ]
+            }
+        },
+        {
+            "name": "Chef's Special Bufet",
+            "price_per_person": 65,
+            "items": {
+                "cold": [
+                    "Tuniak, sezam, avocado wasabi",
+                    "Hov\u00e4dzie tataki, ponzu",
+                    "Ry\u017eov\u00e1 rolka, zelenina, z\u00e1zvor, sweet chilli",
+                    "Tartalenka s trhan\u00fdm ka\u010dac\u00edm m\u00e4som a teriyaki om\u00e1\u010dkou",
+                    "Tartalenka s hr\u00e1\u0161kov\u00fdm pyr\u00e9 a nivou",
+                    "Tartalenka s paradajkovou tapen\u00e1dou a syrom pecorino",
+                    "Ustrice mignonette"
+                ],
+                "salads": [
+                    "Caesar \u0161al\u00e1t",
+                    "Gr\u00e9cky \u0161al\u00e1t",
+                    "Lok\u00e1lne syry dekorovan\u00e9 hroznom a orechmi",
+                    "Vari\u00e1cie lok\u00e1lnych \u00faden\u00edn"
+                ],
+                "soups": [
+                    "Consomm\u00e9 z koh\u00fata, m\u00e4so, rezance, zelenina"
+                ],
+                "main_courses": [
+                    "Brav\u010dov\u00e1 \u0161unka, nakladan\u00e1 zelenina, chren, hor\u010dica, BBQ om\u00e1\u010dka - carvery",
+                    "Pe\u010den\u00fd cel\u00fd losos, fenikel, pak choi, cherry paradajky",
+                    "Konfitovan\u00e9 ka\u010dacie \u0161tvrte",
+                    "Kuracie rezn\u00edky",
+                    "Brav\u010dov\u00e9 rezn\u00edky",
+                    "Kuracia rol\u00e1da s hubami",
+                    "Hov\u00e4dz\u00ed Stroganoff, kysl\u00e1 smotana",
+                    "\u0160pen\u00e1tov\u00e9 \u0161pecle, om\u00e1\u010dka z modr\u00e9ho syra, su\u0161en\u00e9 paradajky",
+                    "Paren\u00e1 zelenina",
+                    "Slovensk\u00fd zemiakov\u00fd \u0161al\u00e1t",
+                    "Zemiakov\u00e1 ka\u0161a",
+                    "Ry\u017ea s hr\u00e1\u0161kom",
+                    "\u017dem\u013eov\u00e1 kned\u013ea",
+                    "Lok\u0161a masten\u00e1",
+                    "Dusen\u00e1 kapusta",
+                    "Baby zemiaky s maslom"
+                ],
+                "desserts": [
+                    "Panna cotta s ovoc\u00edm",
+                    "Pavlova, kokos, mango",
+                    "Malinov\u00fd ko\u0161\u00ed\u010dek",
+                    "Karamelov\u00e1 tartaletka",
+                    "Nutella gu\u013ea",
+                    "Raffaelo",
+                    "Sacher torta",
+                    "Ovocn\u00e1 tartaletka"
+                ]
+            }
+        }
+    ],
+    "coffe breaks": {
+        "coffee_breaks": {
+            "DUKE": {
+                "morning": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda",
+                        "Granola cup \u2013 biely jogurt, dom\u00e1ci d\u017eem, granola 65g",
+                        "Sladk\u00e9 d\u00e1nske pe\u010divo 25g"
+                    ],
+                    "price": "8 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "7",
+                        "8"
+                    ]
+                },
+                "afternoon": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda",
+                        "O\u0161kvarkov\u00e9 pag\u00e1\u010diky 40g",
+                        "Syrov\u00e9 pag\u00e1\u010diky 30g",
+                        "Tvarohov\u00fd str\u00fahan\u00fd kol\u00e1\u010d 60g"
+                    ],
+                    "price": "8 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "7"
+                    ]
+                }
+            },
+            "PRINCE": {
+                "morning": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda / D\u017e\u00fas",
+                        "Sladk\u00e9 d\u00e1nske pe\u010divo 25g",
+                        "Zeleninov\u00fd quiche 30g",
+                        "\u010cu\u010doriedkov\u00e1 profiterolka 50g",
+                        "Ovocn\u00fd \u0161al\u00e1t 100g"
+                    ],
+                    "price": "14 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "7",
+                        "8"
+                    ]
+                },
+                "afternoon": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda / D\u017e\u00fas",
+                        "Croissant caprese 50g",
+                        "M\u00e4sov\u00e9 krekry 40g",
+                        "Profiterolka plnen\u00e1 penou z \u00faden\u00e9ho lososa 40g",
+                        "Citr\u00f3nov\u00e1 tartalenka 40g"
+                    ],
+                    "price": "14 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "4",
+                        "7"
+                    ]
+                }
+            },
+            "QUEEN": {
+                "morning": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda",
+                        "Mini \u017eem\u013ea plnen\u00e1 zeleninou, \u0161unkou a syrom 75g",
+                        "Parmez\u00e1nov\u00e1 profiterolka 28g",
+                        "Brownies 60g"
+                    ],
+                    "price": "10 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "7"
+                    ]
+                },
+                "afternoon": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda",
+                        "Syrov\u00fd chleb\u00ed\u010dek s brusnicovou marmel\u00e1dou 75g",
+                        "Pizza slim\u00e1ky 45g",
+                        "Jablkov\u00e9 pit\u00e9 50g"
+                    ],
+                    "price": "10 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "7"
+                    ]
+                }
+            },
+            "KING": {
+                "morning": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda / D\u017e\u00fas",
+                        "Chleb\u00ed\u010dek par\u00ed\u017esky 75g",
+                        "Chleb\u00ed\u010dek syrov\u00fd s brusnicovou marmel\u00e1dou 75g",
+                        "Croissant prosciutto, pesto 50g",
+                        "Glazovan\u00e1 b\u00e1bovka 60g",
+                        "Filetovan\u00e9 ovocie 100g"
+                    ],
+                    "price": "18 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "7",
+                        "8"
+                    ]
+                },
+                "afternoon": {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda / D\u017e\u00fas",
+                        "Ceasar \u0161al\u00e1t wrap 60g",
+                        "Quiche plnen\u00fd su\u0161en\u00fdmi paradajkami a koz\u00edm syrom 30g",
+                        "Ry\u017eov\u00e1 rolka plnen\u00e1 zeleninou, nakladan\u00fdm z\u00e1zvorom, sweet chilli om\u00e1\u010dka 50g",
+                        "Sacherov\u00e1 torta 40g",
+                        "Ovocn\u00fd \u0161al\u00e1t 100g"
+                    ],
+                    "price": "18 \u20ac / osoba",
+                    "allergens": [
+                        "1",
+                        "3",
+                        "4",
+                        "6",
+                        "7"
+                    ]
+                }
+            },
+            "SIMPLE": {
+                "items": [
+                    "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda"
+                ],
+                "price": "5 \u20ac / osoba"
+            },
+            "VEGAN & GLUTEN FREE": [
+                {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda",
+                        "Chia pudding s kokosov\u00fdm mliekom, agave sirupom a ovoc\u00edm 60g",
+                        "Croissant 80g"
+                    ],
+                    "price": "10 \u20ac / osoba",
+                    "allergens": []
+                },
+                {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda",
+                        "Chleb\u00ed\u010dek z n\u00e1tierky z \u010dervenej \u0161o\u0161ovice a mrkvy, sezamov\u00e9 semienka, bylinky 60g",
+                        "Pizza slim\u00e1k 30g",
+                        "Ovocn\u00fd cupcake 60g"
+                    ],
+                    "price": "12 \u20ac / osoba",
+                    "allergens": [
+                        "8",
+                        "11"
+                    ]
+                },
+                {
+                    "items": [
+                        "K\u00e1va / \u010caj / Z\u00e1mock\u00e1 voda / D\u017e\u00fas",
+                        "Chleb\u00ed\u010dek s hummusom a grilovanou zeleninou 75g",
+                        "Pag\u00e1\u010dik so s\u00f3jov\u00fdm m\u00e4som 25g",
+                        "Vanilkov\u00e1 pena 60g",
+                        "Ovocn\u00fd \u0161al\u00e1t 100g"
+                    ],
+                    "price": "18 \u20ac / osoba",
+                    "allergens": [
+                        "6",
+                        "11"
+                    ]
+                }
+            ]
+        },
+        "menu_notes": "Menu is available for groups over 10 people. A unified buffet menu selection is required for the entire group.",
+        "allergens_legend": {
+            "1": "Obilniny obsahuj\u00face lepok (t. j. p\u0161enica, ra\u017e, ja\u010dme\u0148, ovos, \u0161palda, kamut alebo ich hybridn\u00e9 odrody)",
+            "2": "K\u00f4rovce a v\u00fdrobky z nich",
+            "3": "Vajcia a v\u00fdrobky z nich",
+            "4": "Ryby a v\u00fdrobky z nich",
+            "5": "Ara\u0161idy a v\u00fdrobky z nich",
+            "6": "S\u00f3ja a v\u00fdrobky z nej",
+            "7": "Mlieko a v\u00fdrobky z neho",
+            "8": "Orechy",
+            "9": "Zeler a v\u00fdrobky z neho",
+            "10": "Hor\u010dica a v\u00fdrobky z nej",
+            "11": "Sezamov\u00e9 semen\u00e1 a v\u00fdrobky z nich",
+            "12": "Oxid siri\u010dit\u00fd a siri\u010ditany",
+            "13": "Vl\u010d\u00ed b\u00f4b a v\u00fdrobky z neho",
+            "14": "Makk\u00fd\u0161e a v\u00fdrobky z nich"
+        }
+    },
+    "hotel price policy": {
+        "hotel_pricing_policy": {
+            "effective_date": "2025-01-01",
+            "seasons": {
+                "summer_season": {
+                    "period": "May - September",
+                    "weekday_rates": {
+                        "BAR_1": 149,
+                        "BAR_2": 139,
+                        "BAR_3": 129,
+                        "BAR_4": 119,
+                        "BAR_5": 109,
+                        "FIT": 69,
+                        "GRP": 69,
+                        "FF": 54,
+                        "ZAM": 35
+                    },
+                    "weekend_rates": {
+                        "BAR_1": 199,
+                        "BAR_2": 189,
+                        "BAR_3": 179,
+                        "BAR_4": 169,
+                        "BAR_5": 159,
+                        "FIT": 99,
+                        "GRP": 99,
+                        "FF": 84,
+                        "ZAM": 35
+                    }
+                },
+                "winter_season": {
+                    "period": "December - March",
+                    "weekday_rates": {
+                        "BAR_1": 199,
+                        "BAR_2": 189,
+                        "BAR_3": 179,
+                        "BAR_4": 169,
+                        "BAR_5": 159,
+                        "FIT": 99,
+                        "GRP": 99,
+                        "FF": 84,
+                        "ZAM": 45
+                    },
+                    "weekend_rates": {
+                        "BAR_1": 249,
+                        "BAR_2": 239,
+                        "BAR_3": 229,
+                        "BAR_4": 219,
+                        "BAR_5": 209,
+                        "FIT": 149,
+                        "GRP": 149,
+                        "FF": 134,
+                        "ZAM": 45
+                    }
+                },
+                "christmas_new_year": {
+                    "weekday_weekend_rates": {
+                        "BAR_1": 299,
+                        "BAR_2": 289,
+                        "BAR_3": 279,
+                        "BAR_4": 269,
+                        "BAR_5": 259,
+                        "FIT": "BAR - 10%",
+                        "GRP": "BAR - 10%",
+                        "FF": "BAR - 10%",
+                        "ZAM": "BAR - 10%"
+                    }
+                },
+                "spring_break": {
+                    "weekday_weekend_rates": {
+                        "BAR_1": 249,
+                        "BAR_2": 239,
+                        "BAR_3": 229,
+                        "BAR_4": 219,
+                        "BAR_5": 209,
+                        "FIT": "BAR - 10%",
+                        "GRP": "BAR - 10%",
+                        "FF": "BAR - 10%",
+                        "ZAM": "BAR - 10%"
+                    }
+                }
+            },
+            "additional_charges": {
+                "single_room": {
+                    "weekday": 35,
+                    "weekend": 45
+                },
+                "superior_room": {
+                    "weekday": 20,
+                    "weekend": 30
+                },
+                "apartment": {
+                    "weekday": 99,
+                    "weekend": 99,
+                    "christmas_new_year": 199,
+                    "spring_break": 159
+                },
+                "breakfast_deduction": -15,
+                "half_board": 20,
+                "full_board": 45,
+                "extra_bed": 49,
+                "child_under_6": 0,
+                "child_6_to_12": "-40%",
+                "baby_crib": 15
+            },
+            "general_conditions": {
+                "vat_included": true,
+                "local_tax": "1\u20ac per person",
+                "fit_grp_prices": "NET prices",
+                "occupancy_condition": "At the time of reservation confirmation",
+                "prices_per_person_per_night": true,
+                "third_person_rate": "Same as other guests",
+                "child_under_6_free": true,
+                "child_bed_policy": "Same as extra bed or third bed"
+            },
+            "explanations": {
+                "fit": "Travel agencies and agents receive 10% less than the BAR rate",
+                "grp": "Group price applicable for occupancy less than 70%, minimum 10 rooms or 20 people",
+                "ff": "Family and friends of employees and owners",
+                "zam": "Employee pricing"
+            }
+        }
+    },
+    "winery": {
+        "winery": {
+            "name": "Z\u00e1mock\u00e9 vin\u00e1rstvo",
+            "location": "Pezinsk\u00fd z\u00e1mok",
+            "website": "www.zamokpezinok.sk",
+            "description": "V\u00edna ed\u00edcie Roman Janou\u0161ek, vyr\u00e1ban\u00e9 z vlastn\u00fdch vin\u00edc na juhu Slovenska, v Dubn\u00edku a Svod\u00edne."
+        },
+        "services": {
+            "wine_tasting": {
+                "description": "Degust\u00e1cia v\u00edn z ed\u00edcie Romana Janou\u0161ka v stredovek\u00fdch pivniciach.",
+                "pricing": [
+                    {
+                        "samples": 4,
+                        "price": "14.00\u20ac",
+                        "includes": "prehliadka pivn\u00edc"
+                    },
+                    {
+                        "samples": 6,
+                        "price": "20.00\u20ac",
+                        "includes": "prehliadka pivn\u00edc"
+                    },
+                    {
+                        "samples": 8,
+                        "price": "26.00\u20ac",
+                        "includes": "prehliadka pivn\u00edc"
+                    }
+                ]
+            },
+            "space_rental": {
+                "description": "Pren\u00e1jom priestorov po 18:00 hodine.",
+                "pricing": {
+                    "base_price": "150\u20ac / 2 hodiny",
+                    "additional_hour": "50\u20ac / hodina"
+                }
+            }
+        },
+        "culinary_specialties": {
+            "group_offer": {
+                "minimum_guests": 8,
+                "notice_period": "48 hours"
+            },
+            "buffet_offer": {
+                "minimum_guests": 15,
+                "condition": "Jednotn\u00e9 menu pre cel\u00fa skupinu"
+            },
+            "menus": [
+                {
+                    "name": "Z\u00e1hryz k degust\u00e1cii 1",
+                    "price": "12.00\u20ac / osoba",
+                    "items": [
+                        "Syrov\u00fd/(1, 7, 8) alebo \u00fadeninov\u00fd tanier - 200g",
+                        "Pe\u010divo (1)"
+                    ]
+                },
+                {
+                    "name": "Z\u00e1hryz k degust\u00e1cii 2",
+                    "price": "15.00\u20ac / osoba",
+                    "items": [
+                        "Syrovo-\u00fadeninov\u00fd tanier \u2013 200g / (1, 7, 8)",
+                        "Pe\u010divo (1)",
+                        "1ks syrov\u00fd pag\u00e1\u010d (1, 3, 7)",
+                        "1ks o\u0161kvarkov\u00fd pag\u00e1\u010d (1, 3, 7)"
+                    ]
+                },
+                {
+                    "name": "Vin\u00e1rstvo 1",
+                    "price": "45\u20ac / osoba",
+                    "items": {
+                        "cold_dishes": [
+                            "Dom\u00e1ca tla\u010denka s cibu\u013eou a octom",
+                            "Pikantn\u00e1 klob\u00e1sa",
+                            "O\u0161kvarkov\u00e9 pag\u00e1\u010de (1, 3, 7, 11)",
+                            "Nakladan\u00e1 zelenina"
+                        ],
+                        "soup": "Dom\u00e1ca kapustnica s chlebom (1)",
+                        "hot_dishes": [
+                            "Pikantn\u00e9 m\u00e4so na ihle (10)",
+                            "Pe\u010den\u00e1 krkovi\u010dka (10)",
+                            "Pe\u010den\u00e9 zemiaky v alobale",
+                            "Pe\u010den\u00e9 jaternice (1)",
+                            "Pe\u010den\u00e9 brav\u010dov\u00e9 rebr\u00e1",
+                            "Zemiakov\u00e1 ka\u0161a (7)",
+                            "Chlieb (1)"
+                        ],
+                        "desserts": [
+                            "\u0160tr\u00fad\u013ea (mak) (1, 3, 7, 8)",
+                            "\u0160tr\u00fad\u013ea (orech) (1, 3, 7, 8)"
+                        ]
+                    }
+                },
+                {
+                    "name": "Vin\u00e1rstvo 2",
+                    "price": "49\u20ac / osoba",
+                    "items": {
+                        "cold_dishes": [
+                            "V\u00fdber lok\u00e1lnych syrov (7, 8)",
+                            "V\u00fdber lok\u00e1lnych m\u00e4sov\u00fdch n\u00e1rezov",
+                            "Nakladan\u00e1 zelenina (10)"
+                        ],
+                        "hot_dishes": [
+                            "Konfitovan\u00e9 ka\u010dacie stehn\u00e1",
+                            "Brav\u010dov\u00e9 pe\u010den\u00e9 koleno (10)",
+                            "\u017dem\u013eov\u00e1 kned\u013ea (1, 3, 7)",
+                            "Dom\u00e1ca lok\u0161a (1)",
+                            "Dusen\u00e1 \u010derven\u00e1 kapusta (12)",
+                            "Chlieb (1)"
+                        ],
+                        "desserts": [
+                            "\u0160tr\u00fad\u013ea (mak) (1, 3, 7, 8)",
+                            "\u0160tr\u00fad\u013ea (orech) (1, 3, 7, 8)"
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

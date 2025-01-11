@@ -1,0 +1,7 @@
+langchain-community
+langgraph
+langsmith
+langchain_openai
+streamlit
+selenium
+jq
