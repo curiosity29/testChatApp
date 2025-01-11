@@ -1,0 +1,328 @@
+[
+      {
+        "name": "Bufet 1A",
+        "price_per_person": 35,
+        "items": {
+          "salads": [
+            "Listový šalát, modrý syr, hruška, karamelizované orechy, malina, vínny ocot",
+            "Grécky šalát, čerstvý syr, olivy"
+          ],
+          "soups": [
+            "Slepačí vývar, rezance, koreňová zelenina"
+          ],
+          "main_courses": [
+            "Bravčové rezníky",
+            "Roláda z kuracieho stehná",
+            "Penne s omáčkou zo sušených paradajok",
+            "Zemiaková kaša",
+            "Dusená ryža"
+          ],
+          "desserts": [
+            "Vanilková pena s ovocím",
+            "Sacher torta"
+          ]
+        }
+      },
+      {
+        "name": "Bufet 1B",
+        "price_per_person": 35,
+        "items": {
+          "salads": [
+            "Coleslaw",
+            "Cviklový šalát s jogurtom a chrenom",
+            "Crudités so smotanovo – bylinkový dip"
+          ],
+          "soups": [
+            "Batatový krém"
+          ],
+          "main_courses": [
+            "Pečené marinované kuracie stehná s BBQ omáčkou, grilovanou zeleninou a jogurtovo – bylinkovým dipom",
+            "Bravčová porchetta s restovaným kelom na cesnaku",
+            "Špenátové špecle s nivovou omáčkou a sušenými paradajkami",
+            "Americké zemiaky",
+            "Dusená ryža s hráškom",
+            "Nakladaná zelenina"
+          ],
+          "desserts": [
+            "Jablkové pité",
+            "Pavlova s čiernymi ríbezľami"
+          ]
+        }
+      },
+      {
+        "name": "Bufet 2",
+        "price_per_person": 45,
+        "items": {
+          "cold": [
+            "Roast beef, údené aioli",
+            "Výber lokálnych syrov"
+          ],
+          "salads": [
+            "Listový šalát, pečená tekvica, fazuľkové lusky, reďkovka, dijon, ocot",
+            "Šalát zo zelených listov"
+          ],
+          "soups": [
+            "Minestrone"
+          ],
+          "main_courses": [
+            "Pečená bravčová panenka s restovanými hubami",
+            "Kuracie rezníky",
+            "Penne A la Arabiatta",
+            "Losos s kôprovou omáčkou",
+            "Grilovaná zelenina",
+            "Baby zemiaky s maslom",
+            "Dusená ryža"
+          ],
+          "desserts": [
+            "Panna cotta s ovocím",
+            "Mix štrúdľa"
+          ]
+        }
+      },
+      {
+        "name": "Bufet 3",
+        "price_per_person": 55,
+        "items": {
+          "cold": [
+            "Výber lokálnych syrov, figový džem, hrozno, orechy",
+            "Výber lokálnych mäsových nárezov"
+          ],
+          "salads": [
+            "Repový šalát, kozí syr, čakanka, špenát, jahodový vinegar",
+            "Ceasar šalát s kuracím mäsom a slaninou"
+          ],
+          "soups": [
+            "Hráškový krém s krutónmi"
+          ],
+          "main_courses": [
+            "Hovädzie líčka na červenom víne",
+            "Pečený zubáč na masle",
+            "Bravčové medajlónky so slaninou",
+            "Gnocchi s hubovou omáčkou",
+            "Zámocká knedľa",
+            "Zemiaková kaša",
+            "Dusená ryža",
+            "Anglická zelenina na masle"
+          ],
+          "desserts": [
+            "Brownies",
+            "Venčeky"
+          ]
+        }
+      },
+      {
+        "name": "Bufet 4",
+        "price_per_person": 65,
+        "items": {
+          "cold": [
+            "Výber lokálnych syrov, figový džem, hrozno, orechy",
+            "Roast beef, údené aioli",
+            "Losos grawlax, créme fraiche, kôpor"
+          ],
+          "salads": [
+            "Listový šalát, grilovaný encián",
+            "Ceasar šalát s kuracím mäsom a slaninou"
+          ],
+          "soups": [
+            "Hovädzí vývar, rezance, koreňová zelenina"
+          ],
+          "main_courses": [
+            "Pečené kukuričné kuriatko s citrónom a rozmarínom",
+            "Grilovaný losos, dusený mangold, medovo - horčicová omáčka",
+            "Bryndzové pirohy so slaninou a kyslou smotanou",
+            "Srnčie ragú",
+            "Grilovaná zelenina",
+            "Zámocká knedľa",
+            "Zemiakový gratin"
+          ],
+          "desserts": [
+            "Vanilkový cheessecake",
+            "Slivkový koláč",
+            "Medový rez"
+          ]
+        }
+      },
+      {
+        "name": "Slovenský Bufet",
+        "price_per_person": 35,
+        "items": {
+          "cold": [
+            "Kanapka s oškvarkovou nátierkou",
+            "Kanapka s bryndzovou nátierkou",
+            "Kanapka s nátierkou z údeného pstruha"
+          ],
+          "salads": [
+            "Kapustový šalát s mrkvou, kapustou, jablkami",
+            "Pohánkový šalát s cviklou, kozím syrom a lieskovými orieškami",
+            "Crudités, smotanovo – bylinkový dip"
+          ],
+          "soups": [
+            "Šošovicová na kyslo s hubami a zemiakmi"
+          ],
+          "main_courses": [
+            "Hovädzí guláš",
+            "Bravčový rezeň",
+            "Pečené kačacie štvrte",
+            "Bryndzové pirohy s pažítkou",
+            "Lokša mastená",
+            "Zemiaková kaša",
+            "Dusená ryža",
+            "Žemľová knedľa",
+            "Dusená červená kapusta"
+          ],
+          "desserts": [
+            "Medový rez",
+            "Punčová kocka"
+          ]
+        }
+      },
+      {
+        "name": "Taliansky Bufet",
+        "price_per_person": 45,
+        "items": {
+          "cold": [
+            "Vitello tonnato",
+            "Mozzarella Caprese"
+          ],
+          "salads": [
+            "Radicchio šalát s pečenou hruškou, kandizovanými vlašskými orechmi, syrom gorgonzola a medovo – horčicovým dressingom",
+            "Listový šalát s melónom, prosciuttom a olivami",
+            "Crudités, smotanovo – bylinkový dip"
+          ],
+          "soups": [
+            "Paradajková polievka s čerstvou bazalkou a syrom Grana Padano"
+          ],
+          "main_courses": [
+            "Kuracie prsia na toskánsky spôsob",
+            "Bravčová porchetta s restovaným kelom na cesnaku",
+            "Cestoviny Frutti di mare",
+            "Gnocchi s krémovým pestom, strukovými fazuľkami, brokolicou a syrom Grana Padano",
+            "Baby zemiaky s maslom a oreganom",
+            "Ryža s hráškom",
+            "Grilovaná zelenina s olivami, kaparami a bylinkami"
+          ],
+          "desserts": [
+            "Tiramisu",
+            "Migliaccio"
+          ]
+        }
+      },
+      {
+        "name": "Francúzsky Bufet",
+        "price_per_person": 45,
+        "items": {
+          "cold": [
+            "Quiche lorraine",
+            "Zeleninový quiche",
+            "Quiche s kozím syrom a sušenými paradajkami",
+            "Tanier francúzskych syrov dekorovaných s hroznom a orechmi, chutney"
+          ],
+          "salads": [
+            "Šalát Niçoise - šalát s opečeným tuniakom, ančovičkami, zemiakmi, paradajkami, olivami, cibuľkou, vajíčkom, fazuľovými strukmi a vinaigrettom",
+            "Cviklovo - šošovicový šalát s marinovaným syrom Camembert a horčicovo - medovým dressingom"
+          ],
+          "soups": [
+            "Francúzska cibuľová polievka, pečená bagetka so syrom"
+          ],
+          "main_courses": [
+            "Kuracie stehienka na baskický spôsob",
+            "Hovädzí chuck roll na burgundský spôsob",
+            "Kačacie štvrte v aromatickej omáčke z pomarančov a mäsovej šťavy",
+            "Pečený losos, slávky, cuketa, šafranová omáčka",
+            "Hubové ragú na burgundský spôsob",
+            "Ratatouille",
+            "Gratinované zemiaky",
+            "Ryžový pilaf",
+            "Zemiaková kaša"
+          ],
+          "desserts": [
+            "Paris brest",
+            "Vanilkovo – levanduľové créme brulée"
+          ]
+        }
+      },
+      {
+        "name": "Ázijsky Bufet",
+        "price_per_person": 45,
+        "items": {
+          "cold": [
+            "Ryžová rolka plnená zeleninou, nakladaným zázvorom, sladká chilli omáčka",
+            "Krevetový coctail s uhorkou, mangom a jemne pikantnou krémovou omáčkou",
+            "Hovädzie tataki so sezamom, yuzu ponzu omáčka, togarashi korenie, sušené vločky tuniaka"
+          ],
+          "salads": [
+            "Ázijský Slaw šalát s marinovaným tofu a cashew orieškami",
+            "Uhorkový šalát s dressingom z fermentovaného chilli"
+          ],
+          "soups": [
+            "Tom Kha Gai s kuracím mäsom"
+          ],
+          "main_courses": [
+            "Kuracie prsia v sladko – kyslej omáčke s ananásom",
+            "Pomaly pečený bravčový bôčik, pak choi, hoisin omáčka, sezam",
+            "Pečený losos, brokolica, špenát, limetová teriyaki omáčka",
+            "Thajské červené karfiolové curry s cícerom",
+            "Jazmínová ryža",
+            "Restované rezance so zeleninou a ustricovou omáčkou",
+            "Restovaná zelenina so sójovo – medovou omáčkou"
+          ],
+          "desserts": [
+            "Panna cotta mango, maracuja",
+            "Matcha, čokoláda"
+          ]
+        }
+      },
+      {
+        "name": "Chef's Special Bufet",
+        "price_per_person": 65,
+        "items": {
+          "cold": [
+            "Tuniak, sezam, avocado wasabi",
+            "Hovädzie tataki, ponzu",
+            "Ryžová rolka, zelenina, zázvor, sweet chilli",
+            "Tartalenka s trhaným kačacím mäsom a teriyaki omáčkou",
+            "Tartalenka s hráškovým pyré a nivou",
+            "Tartalenka s paradajkovou tapenádou a syrom pecorino",
+            "Ustrice mignonette"
+          ],
+          "salads": [
+            "Caesar šalát",
+            "Grécky šalát",
+            "Lokálne syry dekorované hroznom a orechmi",
+            "Variácie lokálnych údenín"
+          ],
+          "soups": [
+            "Consommé z kohúta, mäso, rezance, zelenina"
+          ],
+          "main_courses": [
+            "Bravčová šunka, nakladaná zelenina, chren, horčica, BBQ omáčka - carvery",
+            "Pečený celý losos, fenikel, pak choi, cherry paradajky",
+            "Konfitované kačacie štvrte",
+            "Kuracie rezníky",
+            "Bravčové rezníky",
+            "Kuracia roláda s hubami",
+            "Hovädzí Stroganoff, kyslá smotana",
+            "Špenátové špecle, omáčka z modrého syra, sušené paradajky",
+            "Parená zelenina",
+            "Slovenský zemiakový šalát",
+            "Zemiaková kaša",
+            "Ryža s hráškom",
+            "Žemľová knedľa",
+            "Lokša mastená",
+            "Dusená kapusta",
+            "Baby zemiaky s maslom"
+          ],
+          "desserts": [
+            "Panna cotta s ovocím",
+            "Pavlova, kokos, mango",
+            "Malinový košíček",
+            "Karamelová tartaletka",
+            "Nutella guľa",
+            "Raffaelo",
+            "Sacher torta",
+            "Ovocná tartaletka"
+          ]
+        }
+      }
+    ]
+    
